@@ -1,5 +1,7 @@
 # OldBCContents
 
+<img src="https://raw.githubusercontent.com/KNSN92/OldBCContents/refs/heads/main/thumb.png" alt="thumbnail" style="width:50%;"></img>
+
 このmodは、1.7.10のBuildCraftに昔のバージョンのBuildCraftの要素の一部を復活させるmodです。具体的には以下の要素を復活させます。
 
 - 隣のチェストのアイテムを使用してクラフトができる全自動作業台
