@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "OldBCContents",
+    "name": "OldBCContents",
+    "description": "This mod adds to the old content of BuildCraft.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["KNSN92"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["BuildCraft|Core"]
+  }
+]
